@@ -1,0 +1,20 @@
+info|2022-11-16 20:14:27.480684|[SDK][WS][SERVICE],[NEWOBJ][WsService]=0x7fa6d37f0218
+info|2022-11-16 20:14:27.480781|[RPCWS][SERVICE]init the local protocol,minVersion=1,maxVersion=1,module=2
+info|2022-11-16 20:14:27.483496|[DEFAULT][WS][INITIALIZER][initWsService]start websocket service as client,connected size=2
+info|2022-11-16 20:14:27.483522|[DEFAULT][WS][INITIALIZER][initWsService]initializer for websocket service,listenIP=,listenPort=0,disableSsl=false,server=false,client=true,threadPoolSize=8,maxMsgSize=33554432,msgTimeOut=-1,connected peers=2
+info|2022-11-16 20:14:27.483774|[bcos_sdk_create][NEWOBJ],sdk=0x60000391c780
+info|2022-11-16 20:14:28.161021|[DEFAULT][WS][CONNECTOR][connectToWsServer]async_connect success,endpoint=127.0.0.1:20200
+info|2022-11-16 20:14:28.161190|[DEFAULT][WS][STREAM],[NEWOBJ][WsStream]=0x600003919aa8
+info|2022-11-16 20:14:28.161220|[DEFAULT][WS][CONNECTOR][connectToWsServer]async_connect success,endpoint=127.0.0.1:20201
+info|2022-11-16 20:14:28.161277|[DEFAULT][WS][STREAM],[NEWOBJ][WsStream]=0x60000390cdd8
+warning|2022-11-16 20:14:28.174689|[DEFAULT][WS][CONNECTOR][connectToWsServer]ssl async_handshake failed,host=127.0.0.1,port=20200,error=certificate verify failed
+warning|2022-11-16 20:14:28.174774|[DEFAULT][WS][CONNECTOR][connectToWsServer]ssl async_handshake failed,host=127.0.0.1,port=20201,error=certificate verify failed
+info|2022-11-16 20:14:28.174873|[DEFAULT][WS][STREAM],[DELOBJ][WsStream]=0x600003919aa8
+info|2022-11-16 20:14:28.175002|[DEFAULT][WS][STREAM],[DELOBJ][WsStream]=0x60000390cdd8
+info|2022-11-16 20:14:28.175031|[DEFAULT][WS][STREAM]the real action to close the stream,this=0x600003919aa8
+info|2022-11-16 20:14:28.175068|[DEFAULT][WS][STREAM]the real action to close the stream,this=0x60000390cdd8
+info|2022-11-16 20:14:28.175189|[SDK][WS][SERVICE][stop]stop websocket service successfully
+error|2022-11-16 20:14:28.175365|[bcos_sdk_start],sdk=0x60000391c780,errorMsg=/Users/runner/.hunter/_Base/0ba8099/8ab73b4/4b614a0/Build/bcos-boostssl/Source/bcos-boostssl/websocket/WsService.cpp(223): Throw in function void bcos::boostssl::ws::WsService::syncConnectToEndpoints(bcos::boostssl::ws::EndPointsPtr)
+Dynamic exception type: boost::wrapexcept<std::runtime_error>
+std::exception::what: [ ssl handshake failed certificate verify failed:/127.0.0.1:20200,  ssl handshake failed certificate verify failed:/127.0.0.1:20201]
+info|2022-11-16 20:14:28.175386|[bcos_sdk_start],sdk=0x60000391c780

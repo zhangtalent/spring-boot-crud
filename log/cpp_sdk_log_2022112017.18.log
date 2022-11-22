@@ -1,0 +1,31 @@
+info|2022-11-20 17:18:52.309711|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-20 17:18:52.312234|[SDK][WS][SERVICE]connected nodes,count=2
+warning|2022-11-20 17:18:52.314617|[SDK][WS][SESSION][asyncRead],error=Operation canceled,endpoint=127.0.0.1:20200,session=0x7fa7c912ce20
+warning|2022-11-20 17:18:52.314576|[SDK][WS][SESSION][asyncRead],error=Operation canceled,endpoint=127.0.0.1:20201,session=0x7fa7cd80d020
+info|2022-11-20 17:18:52.316520|[SDK][WS][SESSION][drop],reason=4294963295,endpoint=127.0.0.1:20200,session=0x7fa7c912ce20
+info|2022-11-20 17:18:52.317729|[SDK][WS][SESSION][drop],reason=4294963295,endpoint=127.0.0.1:20201,session=0x7fa7cd80d020
+info|2022-11-20 17:18:52.319239|[SDK][WS][SESSION][drop],reason=4294963295,endpoint=127.0.0.1:20201,cb size=0,session=0x7fa7cd80d020
+info|2022-11-20 17:18:52.319210|[SDK][WS][SESSION][drop],reason=4294963295,endpoint=127.0.0.1:20200,cb size=0,session=0x7fa7c912ce20
+info|2022-11-20 17:18:52.319775|[DEFAULT][WS][STREAM]the real action to close the stream,this=0x600000878ce8
+info|2022-11-20 17:18:52.319791|[DEFAULT][WS][STREAM]the real action to close the stream,this=0x600000877218
+info|2022-11-20 17:18:52.322694|[SDK][WS][SERVICE][removeSession],endpoint=127.0.0.1:20201
+info|2022-11-20 17:18:52.324109|[EVENT][SUB][suspendTasks]suspend event sub tasks for disconnection,endPoint=127.0.0.1:20201,count=0
+info|2022-11-20 17:18:52.324133|[SDK][WS][SERVICE][onDisconnect],endpoint=127.0.0.1:20201,connectedEndPoint=127.0.0.1:20201,refCount=4
+info|2022-11-20 17:18:52.323566|[SDK][WS][SERVICE][removeSession],endpoint=127.0.0.1:20200
+info|2022-11-20 17:18:52.324138|[RPCWS][SERVICE][clearGroupInfoByEp],endPoint=127.0.0.1:20201
+info|2022-11-20 17:18:52.324558|[EVENT][SUB][suspendTasks]suspend event sub tasks for disconnection,endPoint=127.0.0.1:20200,count=0
+info|2022-11-20 17:18:52.324621|[SDK][WS][SERVICE][onDisconnect],endpoint=127.0.0.1:20200,connectedEndPoint=127.0.0.1:20200,refCount=4
+info|2022-11-20 17:18:52.324631|[RPCWS][SERVICE][clearGroupInfoByEp],endPoint=127.0.0.1:20200
+info|2022-11-20 17:18:52.324609|[RPCWS][SERVICE][clearGroupInfoByEp]group2Node2Endpoints, clear node,group=group0,node=bfb7c5953db92b67f8b2d749193e5243e13bfe56ff3425db3089a29a1ddc68e9daf5db0568a0478ed924f8512125a3da3cf7328bcd093b8ffa37f7b80a1a5fa6
+info|2022-11-20 17:18:52.328227|[RPCWS][SERVICE][clearGroupInfoByEp]clear endPoint,endPoint=127.0.0.1:20201
+info|2022-11-20 17:18:52.328253|[RPCWS][SERVICE][printGroupInfo],total count=1
+info|2022-11-20 17:18:52.328675|[RPCWS][SERVICE][printGroupInfo]group list,group=group0,count=1
+info|2022-11-20 17:18:52.328695|[RPCWS][SERVICE][printGroupInfo]node list,group=group0,node=abdbb6097ece1931d4d5400fd1ff6a588690d8f0ad1b860168082a5573efc618af7a9bcc78239331236f345075787b384701da53a5a9b0114a5e8e5e2598a05a,count=1
+info|2022-11-20 17:18:52.329419|[RPCWS][SERVICE][clearGroupInfoByEp]group2Node2Endpoints, clear node,group=group0,node=abdbb6097ece1931d4d5400fd1ff6a588690d8f0ad1b860168082a5573efc618af7a9bcc78239331236f345075787b384701da53a5a9b0114a5e8e5e2598a05a
+info|2022-11-20 17:18:52.329438|[SDK][WS][SESSION],[DELOBJ][WSSESSION]=0x7fa7cd80d020
+info|2022-11-20 17:18:52.329536|[RPCWS][SERVICE][clearGroupInfoByEp]group2Node2Endpoints, clear group,group=group0
+info|2022-11-20 17:18:52.330559|[DEFAULT][WS][STREAM],[DELOBJ][WsStream]=0x600000878ce8
+info|2022-11-20 17:18:52.333604|[RPCWS][SERVICE][clearGroupInfoByEp]clear endPoint,endPoint=127.0.0.1:20200
+info|2022-11-20 17:18:52.333736|[RPCWS][SERVICE][printGroupInfo],total count=0
+info|2022-11-20 17:18:52.333751|[SDK][WS][SESSION],[DELOBJ][WSSESSION]=0x7fa7c912ce20
+info|2022-11-20 17:18:52.334481|[DEFAULT][WS][STREAM],[DELOBJ][WsStream]=0x600000877218

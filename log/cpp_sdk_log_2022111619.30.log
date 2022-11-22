@@ -1,0 +1,19 @@
+info|2022-11-16 19:30:22.845182|[SDK][WS][SERVICE],[NEWOBJ][WsService]=0x7fb71426fa18
+info|2022-11-16 19:30:22.845222|[RPCWS][SERVICE]init the local protocol,minVersion=1,maxVersion=1,module=2
+info|2022-11-16 19:30:22.847832|[DEFAULT][WS][INITIALIZER][initWsService]start websocket service as client,connected size=1
+info|2022-11-16 19:30:22.847859|[DEFAULT][WS][INITIALIZER][initWsService]initializer for websocket service,listenIP=,listenPort=0,disableSsl=false,server=false,client=true,threadPoolSize=8,maxMsgSize=33554432,msgTimeOut=-1,connected peers=1
+info|2022-11-16 19:30:22.847943|[bcos_sdk_create][NEWOBJ],sdk=0x600000897160
+info|2022-11-16 19:30:23.320733|[DEFAULT][WS][CONNECTOR][connectToWsServer]async_connect success,endpoint=127.0.0.1:20200
+info|2022-11-16 19:30:23.320822|[DEFAULT][WS][STREAM],[NEWOBJ][WsStream]=0x60000086b308
+info|2022-11-16 19:30:23.324562|[DEFAULT][BOOSTSSL][NODEINFO][NEW]SSLContext pubHex: 3082010a028201010089f0b74513274b3c5df1f33cb38388db2e4afe6011463d24d1dee8cfe53632427de1296d6a4eab83ba24730de759738d214075e88634f3ab4723f3ca3f33d4afea78f39750040fe502003e37d56b588f040ff683d40a62f44e2ef1ad51877bb4d15569ddb0f090ebaf3fcfe15d38f948cfa5978a4586662009f9eb1b012182e5f685a9f2e4b138106ded0fa3e8ea02dc37e9412d881cc73bcffabdae67cf1feee331002c7d90acb3f6fc73f2145fdff599887e03976561f25b7dce693691d200f93bf13cca0f5d2b61fc9b93c1a3d39343ff451a8ad7761c467dd8c7bf1bd42a66990a4f2fc0d9f86f8fcd479ea9ad629fe712f1978a6101fce6e283c23741eb0203010001
+info|2022-11-16 19:30:23.324712|[DEFAULT][BOOSTSSL][NODEINFO][NEW]SSLContext pubHex: 3082010a0282010100c62fe472885058963a8324034db5f3926aaccb5a96d34a3007ff9b26fb0729fa2908ccdde89034fbaf57aefc1bdae57a74bb03000aae9ebcbb76789c10f9c7b3a9776488f42861b0fc1a5bb04d24e32ff9747656229820dad7daa8037626f8b8776c5a26862474a4e9d890b1833e9b0b9c4fa26a7f043c1d225e478cfd1c82a215b0a79e56da3e6130035c9f1be74e8740497f6020ab21285022f37ff2c5098000114aa153dc80750b1905f61176740c00fcbe56f28b2f0bb9c9054e700e1c063c6573f5f95d32fe3862de52667007258c5b2209740b9cb7284ec4bb018d8beaa2f7d1a2514806eaf713183e08b4c1b908867d9f3c95114eb0f8baffcc74b2090203010001
+warning|2022-11-16 19:30:23.324721|[DEFAULT][BOOSTSSL][NODEINFO]Get ca basic failed
+info|2022-11-16 19:30:23.329319|[DEFAULT][WS][CONNECTOR][connectToWsServer]ssl async_handshake success,host=127.0.0.1,port=20200
+warning|2022-11-16 19:30:23.330219|[DEFAULT][WS][CONNECTOR][connectToWsServer]websocket async_handshake failed,error=end of stream,host=127.0.0.1,port=20200
+info|2022-11-16 19:30:23.330252|[DEFAULT][WS][STREAM],[DELOBJ][WsStream]=0x60000086b308
+info|2022-11-16 19:30:23.330280|[DEFAULT][WS][STREAM]the real action to close the stream,this=0x60000086b308
+info|2022-11-16 19:30:23.330492|[SDK][WS][SERVICE][stop]stop websocket service successfully
+error|2022-11-16 19:30:23.330584|[bcos_sdk_start],sdk=0x600000897160,errorMsg=/Users/runner/.hunter/_Base/0ba8099/8ab73b4/4b614a0/Build/bcos-boostssl/Source/bcos-boostssl/websocket/WsService.cpp(223): Throw in function void bcos::boostssl::ws::WsService::syncConnectToEndpoints(bcos::boostssl::ws::EndPointsPtr)
+Dynamic exception type: boost::wrapexcept<std::runtime_error>
+std::exception::what: [end of stream:/127.0.0.1:20200]
+info|2022-11-16 19:30:23.330593|[bcos_sdk_start],sdk=0x600000897160

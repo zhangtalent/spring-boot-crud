@@ -1,0 +1,16 @@
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/contract/TestKV.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/utils/SpringUtils.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/contract/TestCRUD.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/controller/KVController.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/client/KVClient.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/entity/ResponseData.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/contract/TestCRUDMultiParameter.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/AppApplication.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/controller/CrudMultiParameterController.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/config/FiscoConfig.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/controller/CrudController.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/common/CommonClient.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/client/CRUDMultiParameterClient.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/common/CommonClientMultiParameter.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/entity/Person.java
+/Users/zhangtiancai/fisco/spring-boot-crud/src/main/java/com/fisco/app/client/CRUDClient.java

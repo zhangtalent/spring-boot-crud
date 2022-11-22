@@ -1,0 +1,6 @@
+info|2022-11-20 09:31:16.994967|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-20 09:31:16.995072|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-20 09:31:36.984667|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-20 09:31:36.997481|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-20 09:31:56.984057|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-20 09:31:56.997965|[SDK][WS][SERVICE]connected nodes,count=2

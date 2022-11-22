@@ -1,0 +1,58 @@
+info|2022-11-17 05:00:18.216642|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:00:18.891462|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:00:40.238801|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:00:40.299762|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:01:00.242558|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:01:00.303417|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:01:20.243752|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:01:20.305985|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:01:40.244438|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:01:40.306818|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:17:13.192363|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:17:13.254212|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:17:33.180717|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:17:33.254925|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:17:53.179242|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:17:53.256272|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:34:59.558061|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:34:59.634850|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:35:19.570462|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:35:19.647851|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:35:39.575664|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:35:39.652931|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:35:59.577641|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:35:59.654806|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:36:19.579799|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:36:19.656307|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:36:39.581264|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:36:39.658224|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:36:59.582987|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:36:59.659516|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:37:19.584653|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:37:19.660401|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:37:39.586022|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:37:39.662288|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:37:59.587529|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:37:59.663005|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:38:19.589114|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:38:19.664169|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:38:39.590904|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:38:39.665149|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:38:59.592381|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:38:59.666581|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:39:19.593973|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:39:19.666886|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:39:39.595448|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:39:39.668920|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:39:59.595944|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:39:59.670534|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:56:02.217215|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:56:02.292672|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:56:22.224591|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:56:22.300354|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:56:42.228782|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:56:42.304896|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:57:02.231262|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:57:02.305589|[SDK][WS][SERVICE]connected nodes,count=2
+info|2022-11-17 05:57:22.232970|[EVENT][SUB][doLoop]event sub tasks report,working event sub count=0,suspend event sub count=0
+info|2022-11-17 05:57:22.306223|[SDK][WS][SERVICE]connected nodes,count=2
